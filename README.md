@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hey, I'm Devank Uppal 👋
 
-<!--
-**dev0179/dev0179** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science & Finance @ Iowa State University**  
+Minor in Artificial Intelligence, Statistics & Economics
 
-Here are some ideas to get you started:
+I build secure, ML-powered systems and developer tools that improve efficiency and real-world workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔗 Connect
+- 🌐 Portfolio: [devank.cv](https://www.devank.cv)  
+- 💼 LinkedIn: [linkedin.com/devankuppal](https://www.linkedin.com/in/devankuppal/)
+- ✉️ Email: [uppal.devank@oulook.com](uppal.devank@oulook.com)
+
+---
+
+## 🛠️ Focus Areas
+- Machine Learning & Data Systems
+- Cybersecurity & Secure APIs
+- Developer Tooling & Infrastructure
+- Intelligent Automation
+
+---
+
+## 📌 Featured Projects
+- **x402 Data Utilities** — Wallet-signed, pay-per-request data tooling  
+- **[Your next best project]** — one-line impact description  
+- **[Another project]** — one-line impact description
