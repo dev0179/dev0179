@@ -10,7 +10,7 @@ I build secure, ML-powered systems and developer tools that improve efficiency a
 ## 🔗 Connect
 - 🌐 Portfolio: [devank.cv](https://www.devank.cv)  
 - 💼 LinkedIn: [linkedin.com/devankuppal](https://www.linkedin.com/in/devankuppal/)
-- ✉️ Email: [uppal.devank@oulook.com](uppal.devank@oulook.com)
+- ✉️ Email: [uppal.devank@oulook.com](mailto:uppal.devank@oulook.com)
 
 ---
 
