@@ -24,5 +24,3 @@ I build secure, ML-powered systems and developer tools that improve efficiency a
 
 ## 📌 Featured Projects
 - **x402 Data Utilities** — Wallet-signed, pay-per-request data tooling  
-- **[Your next best project]** — one-line impact description  
-- **[Another project]** — one-line impact description
